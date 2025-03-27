@@ -1,0 +1,26 @@
+.container {
+  scroll-margin-top: 70px;
+}
+
+.profile-image {
+  width: 14rem;
+  height: 14rem;
+}
+
+#sidenav-bg {
+  height: 120px;
+}
+
+.card-image {
+  object-fit: cover;
+}
+
+#email-icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+.email{
+  font-size: 20px;
+}
